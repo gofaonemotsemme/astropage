@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bangfel';
+    src: url('Bangfel.woff2') format('woff2'),
+        url('Bangfel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
