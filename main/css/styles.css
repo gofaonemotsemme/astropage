@@ -513,11 +513,10 @@ img{
 }
 
 .right-arrow{
-
     width: 20px;
     position: absolute; 
-    top: 0; /* Align the image to the top */
-    right: 0; /* Align the image to the right */
+    top: 0; 
+    right: 0; 
     transform: translate(-50%, 2880%);
     /* height: 40px; */
 }
