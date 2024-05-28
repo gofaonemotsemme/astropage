@@ -609,6 +609,12 @@ nav ul li a:hover {
     color: #74007d;
 }
 
+
+.ascendant{
+    background-image: radial-gradient(circle, #cf9af4, #d99ff6, #e2a4f8, #ebaafa, #f4affc, #f4b0fd, #f5b2fd, #f5b3fe, #eeb1fd, #e6affc, #dfadfa, #d7abf9);     
+    color: #74007d;
+
+}
 .sun{
     background-image: radial-gradient(circle, #d0d0d0, #cfcfcf, #cdcece, #cccdcd, #cbcccb, #c4c5c5, #bebebe, #b7b7b7, #a9a9a9, #9b9b9b, #8d8d8d, #7f7f7f);    
     color: #303030;
